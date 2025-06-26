@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Algocore/static/css/main.f85bb1de.css",
-    "main.js": "/Algocore/static/js/main.e11e6500.js",
+    "main.js": "/Algocore/static/js/main.55989a68.js",
     "reactPlayerYouTube.js": "/Algocore/static/js/reactPlayerYouTube.048b0675.chunk.js",
     "reactPlayerSoundCloud.js": "/Algocore/static/js/reactPlayerSoundCloud.1193d99a.chunk.js",
     "reactPlayerVimeo.js": "/Algocore/static/js/reactPlayerVimeo.db83811e.chunk.js",
@@ -120,7 +120,7 @@
     "static/media/icon.png": "/Algocore/static/media/icon.8722ca4b7ed9fbc19cc8.png",
     "index.html": "/Algocore/index.html",
     "main.f85bb1de.css.map": "/Algocore/static/css/main.f85bb1de.css.map",
-    "main.e11e6500.js.map": "/Algocore/static/js/main.e11e6500.js.map",
+    "main.55989a68.js.map": "/Algocore/static/js/main.55989a68.js.map",
     "reactPlayerYouTube.048b0675.chunk.js.map": "/Algocore/static/js/reactPlayerYouTube.048b0675.chunk.js.map",
     "reactPlayerSoundCloud.1193d99a.chunk.js.map": "/Algocore/static/js/reactPlayerSoundCloud.1193d99a.chunk.js.map",
     "reactPlayerVimeo.db83811e.chunk.js.map": "/Algocore/static/js/reactPlayerVimeo.db83811e.chunk.js.map",
@@ -226,6 +226,6 @@
   },
   "entrypoints": [
     "static/css/main.f85bb1de.css",
-    "static/js/main.e11e6500.js"
+    "static/js/main.55989a68.js"
   ]
 }
